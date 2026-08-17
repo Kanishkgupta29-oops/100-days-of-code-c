@@ -25,7 +25,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 
 | Day | Date | Topic | Problems Solved | Status |
 |:---:|:---:|:---|:---|:---:|
-| Day 01 | Aug 17, 2026 | - | - | ⏳ Pending |
+| Day 01 | Aug 17, 2026 | User Inputs, Operations & Output | [Q001, Q002](Day-01/) | ✅ Completed |
 | Day 02 | Aug 18, 2026 | - | - | ⏳ Pending |
 | Day 03 | Aug 19, 2026 | - | - | ⏳ Pending |
 | Day 04 | Aug 20, 2026 | - | - | ⏳ Pending |
