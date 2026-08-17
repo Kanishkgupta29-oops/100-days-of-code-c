@@ -1,0 +1,11 @@
+*.exe
+*.o
+*.obj
+*.bin
+*.out
+info.txt
+students.txt
+numbers.txt
+employee.bin
+.vscode/
+.idea/
