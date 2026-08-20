@@ -28,7 +28,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 01 | Aug 17, 2026 | User Inputs, Operations & Output | [Q001, Q002](Day-01/) | ✅ Completed |
 | Day 02 | Aug 18, 2026 | User Inputs, Operations & Output | [Q003, Q004](Day-02/) | ✅ Completed |
 | Day 03 | Aug 19, 2026 | User Inputs, Operations & Output | [Q005, Q006](Day-03/) | ✅ Completed |
-| Day 04 | Aug 20, 2026 | - | - | ⏳ Pending |
+| Day 04 | Aug 20, 2026 | User Inputs, Operations & Output | [Q007, Q008](Day-04/) | ✅ Completed |
 | Day 05 | Aug 21, 2026 | - | - | ⏳ Pending |
 | Day 06 | Aug 22, 2026 | - | - | ⏳ Pending |
 | Day 07 | Aug 23, 2026 | - | - | ⏳ Pending |
