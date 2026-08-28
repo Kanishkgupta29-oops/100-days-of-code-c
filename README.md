@@ -36,7 +36,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 09 | Aug 25, 2026 | Conditional Statements | [Q017, Q018](Day-09/) | ✅ Completed |
 | Day 10 | Aug 26, 2026 | Conditional Statements | [Q019, Q020](Day-10/) | ✅ Completed |
 | Day 11 | Aug 27, 2026 | Conditional Statements | [Q021, Q022](Day-11/) | ✅ Completed |
-| Day 12 | Aug 28, 2026 | - | - | ⏳ Pending |
+| Day 12 | Aug 28, 2026 | Conditional Statements | [Q023, Q024](Day-12/) | ✅ Completed |
 | Day 13 | Aug 29, 2026 | - | - | ⏳ Pending |
 | Day 14 | Aug 30, 2026 | - | - | ⏳ Pending |
 | Day 15 | Aug 31, 2026 | - | - | ⏳ Pending |
