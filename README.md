@@ -39,7 +39,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 12 | Aug 28, 2026 | Conditional Statements | [Q023, Q024](Day-12/) | ✅ Completed |
 | Day 13 | Aug 29, 2026 | Conditional Statements | [Q025, Q026](Day-13/) | ✅ Completed |
 | Day 14 | Aug 30, 2026 | Loops without Arrays/Strings | [Q027, Q028](Day-14/) | ✅ Completed |
-| Day 15 | Aug 31, 2026 | - | - | ⏳ Pending |
+| Day 15 | Aug 31, 2026 | Loops without Arrays/Strings | [Q029, Q030](Day-15/) | ✅ Completed |
 | Day 16 | Sep 01, 2026 | - | - | ⏳ Pending |
 | Day 17 | Sep 02, 2026 | - | - | ⏳ Pending |
 | Day 18 | Sep 03, 2026 | - | - | ⏳ Pending |
