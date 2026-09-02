@@ -41,7 +41,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 14 | Aug 30, 2026 | Loops without Arrays/Strings | [Q027, Q028](Day-14/) | ✅ Completed |
 | Day 15 | Aug 31, 2026 | Loops without Arrays/Strings | [Q029, Q030](Day-15/) | ✅ Completed |
 | Day 16 | Sep 01, 2026 | Loops without Arrays/Strings | [Q031, Q032](Day-16/) | ✅ Completed |
-| Day 17 | Sep 02, 2026 | - | - | ⏳ Pending |
+| Day 17 | Sep 02, 2026 | Loops without Arrays/Strings | [Q033, Q034](Day-17/) | ✅ Completed |
 | Day 18 | Sep 03, 2026 | - | - | ⏳ Pending |
 | Day 19 | Sep 04, 2026 | - | - | ⏳ Pending |
 | Day 20 | Sep 05, 2026 | - | - | ⏳ Pending |
