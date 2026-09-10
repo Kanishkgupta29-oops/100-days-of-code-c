@@ -49,7 +49,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 22 | Sep 07, 2026 | Loops without Arrays/Strings | [Q043, Q044](Day-22/) | ✅ Completed |
 | Day 23 | Sep 08, 2026 | Loops without Arrays/Strings | [Q045, Q046](Day-23/) | ✅ Completed |
 | Day 24 | Sep 09, 2026 | Nested Loops without Arrays/Strings | [Q047, Q048](Day-24/) | ✅ Completed |
-| Day 25 | Sep 10, 2026 | - | - | ⏳ Pending |
+| Day 25 | Sep 10, 2026 | Nested Loops without Arrays/Strings | [Q049, Q050](Day-25/) | ✅ Completed |
 | Day 26 | Sep 11, 2026 | - | - | ⏳ Pending |
 | Day 27 | Sep 12, 2026 | - | - | ⏳ Pending |
 | Day 28 | Sep 13, 2026 | - | - | ⏳ Pending |
