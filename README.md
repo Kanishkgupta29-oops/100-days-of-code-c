@@ -51,7 +51,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 24 | Sep 09, 2026 | Nested Loops without Arrays/Strings | [Q047, Q048](Day-24/) | ✅ Completed |
 | Day 25 | Sep 10, 2026 | Nested Loops without Arrays/Strings | [Q049, Q050](Day-25/) | ✅ Completed |
 | Day 26 | Sep 11, 2026 | Nested Loops without Arrays/Strings | [Q051, Q052](Day-26/) | ✅ Completed |
-| Day 27 | Sep 12, 2026 | - | - | ⏳ Pending |
+| Day 27 | Sep 12, 2026 | Nested Loops without Arrays/Strings | [Q053, Q054](Day-27/) | ✅ Completed |
 | Day 28 | Sep 13, 2026 | - | - | ⏳ Pending |
 | Day 29 | Sep 14, 2026 | - | - | ⏳ Pending |
 | Day 30 | Sep 15, 2026 | - | - | ⏳ Pending |
