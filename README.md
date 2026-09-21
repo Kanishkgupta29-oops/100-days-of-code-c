@@ -60,7 +60,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 33 | Sep 18, 2026 | Arrays (1D) | [Q065, Q066](Day-33/) | ✅ Completed |
 | Day 34 | Sep 19, 2026 | Arrays (1D) | [Q067, Q068](Day-34/) | ✅ Completed |
 | Day 35 | Sep 20, 2026 | Arrays (1D) | [Q069, Q070](Day-35/) | ✅ Completed |
-| Day 36 | Sep 21, 2026 | - | - | ⏳ Pending |
+| Day 36 | Sep 21, 2026 | 2D Arrays | [Q071, Q072](Day-36/) | ✅ Completed |
 | Day 37 | Sep 22, 2026 | - | - | ⏳ Pending |
 | Day 38 | Sep 23, 2026 | - | - | ⏳ Pending |
 | Day 39 | Sep 24, 2026 | - | - | ⏳ Pending |
