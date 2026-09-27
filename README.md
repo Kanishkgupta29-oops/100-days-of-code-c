@@ -66,7 +66,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 39 | Sep 24, 2026 | 2D Arrays | [Q077, Q078](Day-39/) | ✅ Completed |
 | Day 40 | Sep 25, 2026 | 2D Arrays | [Q079, Q080](Day-40/) | ✅ Completed |
 | Day 41 | Sep 26, 2026 | Strings | [Q081, Q082](Day-41/) | ✅ Completed |
-| Day 42 | Sep 27, 2026 | - | - | ⏳ Pending |
+| Day 42 | Sep 27, 2026 | Strings | [Q083, Q084](Day-42/) | ✅ Completed |
 | Day 43 | Sep 28, 2026 | - | - | ⏳ Pending |
 | Day 44 | Sep 29, 2026 | - | - | ⏳ Pending |
 | Day 45 | Sep 30, 2026 | - | - | ⏳ Pending |
