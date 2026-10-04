@@ -73,7 +73,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 46 | Oct 01, 2026 | Strings | [Q091, Q092](Day-46/) | ✅ Completed |
 | Day 47 | Oct 02, 2026 | Strings | [Q093, Q094](Day-47/) | ✅ Completed |
 | Day 48 | Oct 03, 2026 | Strings | [Q095, Q096](Day-48/) | ✅ Completed |
-| Day 49 | Oct 04, 2026 | - | - | ⏳ Pending |
+| Day 49 | Oct 04, 2026 | Strings | [Q097, Q098](Day-49/) | ✅ Completed |
 | Day 50 | Oct 05, 2026 | - | - | ⏳ Pending |
 | Day 51 | Oct 06, 2026 | - | - | ⏳ Pending |
 | Day 52 | Oct 07, 2026 | - | - | ⏳ Pending |
