@@ -80,7 +80,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 53 | Oct 08, 2026 | Logic Enhancers | [Q103](Day-53/) | ✅ Completed |
 | Day 54 | Oct 09, 2026 | Logic Enhancers | [Q104](Day-54/) | ✅ Completed |
 | Day 55 | Oct 10, 2026 | Logic Enhancers | [Q105](Day-55/) | ✅ Completed |
-| Day 56 | Oct 11, 2026 | - | - | ⏳ Pending |
+| Day 56 | Oct 11, 2026 | Logic Enhancers | [Q106](Day-56/) | ✅ Completed |
 | Day 57 | Oct 12, 2026 | - | - | ⏳ Pending |
 | Day 58 | Oct 13, 2026 | - | - | ⏳ Pending |
 | Day 59 | Oct 14, 2026 | - | - | ⏳ Pending |
