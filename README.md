@@ -98,7 +98,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 71 | Oct 26, 2026 | File Handling | [Q121](Day-71/) | ✅ Completed |
 | Day 72 | Oct 27, 2026 | File Handling | [Q122](Day-72/) | ✅ Completed |
 | Day 73 | Oct 28, 2026 | File Handling | [Q123](Day-73/) | ✅ Completed |
-| Day 74 | Oct 29, 2026 | - | - | ⏳ Pending |
+| Day 74 | Oct 29, 2026 | File Handling | [Q124](Day-74/) | ✅ Completed |
 | Day 75 | Oct 30, 2026 | - | - | ⏳ Pending |
 | Day 76 | Oct 31, 2026 | - | - | ⏳ Pending |
 | Day 77 | Nov 01, 2026 | - | - | ⏳ Pending |
