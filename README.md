@@ -105,7 +105,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 78 | Nov 02, 2026 | File Handling | [Q128](Day-78/) | ✅ Completed |
 | Day 79 | Nov 03, 2026 | File Handling | [Q129](Day-79/) | ✅ Completed |
 | Day 80 | Nov 04, 2026 | File Handling | [Q130](Day-80/) | ✅ Completed |
-| Day 81 | Nov 05, 2026 | - | - | ⏳ Pending |
+| Day 81 | Nov 05, 2026 | Enum | [Q131](Day-81/) | ✅ Completed |
 | Day 82 | Nov 06, 2026 | - | - | ⏳ Pending |
 | Day 83 | Nov 07, 2026 | - | - | ⏳ Pending |
 | Day 84 | Nov 08, 2026 | - | - | ⏳ Pending |
