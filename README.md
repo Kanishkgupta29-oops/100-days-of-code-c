@@ -110,7 +110,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 83 | Nov 07, 2026 | Enum | [Q133](Day-83/) | ✅ Completed |
 | Day 84 | Nov 08, 2026 | Enum | [Q134](Day-84/) | ✅ Completed |
 | Day 85 | Nov 09, 2026 | Enum | [Q135](Day-85/) | ✅ Completed |
-| Day 86 | Nov 10, 2026 | - | - | ⏳ Pending |
+| Day 86 | Nov 10, 2026 | Enum | [Q136](Day-86/) | ✅ Completed |
 | Day 87 | Nov 11, 2026 | - | - | ⏳ Pending |
 | Day 88 | Nov 12, 2026 | - | - | ⏳ Pending |
 | Day 89 | Nov 13, 2026 | - | - | ⏳ Pending |
