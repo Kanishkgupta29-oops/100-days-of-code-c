@@ -118,7 +118,7 @@ Welcome to my **100 Days of Code** journey in **C Programming**, following the U
 | Day 91 | Nov 15, 2026 | Enum | [Q141](Day-91/) | ✅ Completed |
 | Day 92 | Nov 16, 2026 | Enum | [Q142](Day-92/) | ✅ Completed |
 | Day 93 | Nov 17, 2026 | Enum | [Q143](Day-93/) | ✅ Completed |
-| Day 94 | Nov 18, 2026 | - | - | ⏳ Pending |
+| Day 94 | Nov 18, 2026 | Enum | [Q144](Day-94/) | ✅ Completed |
 | Day 95 | Nov 19, 2026 | - | - | ⏳ Pending |
 | Day 96 | Nov 20, 2026 | - | - | ⏳ Pending |
 | Day 97 | Nov 21, 2026 | - | - | ⏳ Pending |
